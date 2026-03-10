@@ -8,6 +8,7 @@ Elaborar um README técnico da DevToolsPro que seja útil para desenvolvedores, 
 ## Documentação que deve ser produzida
 - Arquivo final: `docs/readme.md`
 - Referência de estrutura: `docs/readme-template.md`
+- Campo obrigatório no arquivo final: seção **Premissas, Lacunas e Riscos** preenchida.
 
 ## Regras da simulação
 - Esta atividade é uma simulação acadêmica.
